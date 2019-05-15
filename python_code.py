@@ -1,6 +1,5 @@
 
-
-nsert
+Insert
 print('hello')
 
 
